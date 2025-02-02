@@ -1,4 +1,7 @@
 #coleccion constante de elemtos, inmutables, que pueden ser de un tipo o varios tipos de datos.
+# 0234e
+
+
 lista1 =[]
 precio =int(input("ingrese el precio :"))
 lista1.append(precio)
