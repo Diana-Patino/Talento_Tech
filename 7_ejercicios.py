@@ -21,3 +21,6 @@ print(ciudades)
 
 enlistar = calificaciones.values()
 print(list(enlistar))
+
+
+ordenados = dict(sorted(calificaciones.items(), key=lambda item: item[1], reverse=True))
