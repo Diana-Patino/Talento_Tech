@@ -22,5 +22,7 @@ print(ciudades)
 enlistar = calificaciones.values()
 print(list(enlistar))
 
+#asdfasdas
 
-ordenados = dict(sorted(calificaciones.items(), key=lambda item: item[1], reverse=True))
+ordenados = dict(sorted(calificaciones.items(), key=lambda item: item[1]))
+print(ordenados)
