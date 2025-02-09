@@ -27,7 +27,7 @@ print(listadenume)
 sumatoria = sum(listadenume)
 print(sumatoria)
    
-   """
+   
 
 
 i = 1
@@ -43,3 +43,4 @@ while i < 6:
   if i == 3:
     continue #se salta una vuelta del ciclo segun la condicion que yo ponga
   print(i)
+  """
