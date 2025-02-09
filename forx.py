@@ -19,7 +19,7 @@ palabra = "sombrita"
 """
 
 numero= int(input("dame un numero para multiplicar :"))
-
+#comento
 for i in range(1,11):
     print(i*numero)
 
