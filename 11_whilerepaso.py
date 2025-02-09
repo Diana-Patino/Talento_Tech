@@ -1,5 +1,5 @@
 lista =[]
-"""
+
 i = 0
 while i<5:
     n = input("escriba una palabra ")
@@ -33,7 +33,7 @@ while i<5:
     i = i + 1
 print("el resultado se", multipli)
 
-"""
+
 
 
 
