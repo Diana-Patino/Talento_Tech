@@ -1,0 +1,17 @@
+Hola DIanita
+Como estas
+
+para trabajar con librerias debo instalarlas 
+
+numpy - numerical python es una forma de almacenar los datos
+numpy funciona con arreglos que sin un similar a las listas
+
+para instalar libreria en terminal ponemos
+
+pip install numpy
+
+pip es el instalador de paquetes de python
+
+
+___________________
+

@@ -1,0 +1,12 @@
+crear un sitio web
+
+un problema que queremos darle solucion
+
+xammp nos permite correr sitios web de manera local
+
+local - host
+
+dominio - localhos porque es servidor local
+
+descargamos wordpres y lo ponemos adetro de xammp
+
