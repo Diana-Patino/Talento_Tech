@@ -4,7 +4,7 @@ $(document).ready(function(){
         autoplay: true,
         autoplaySpeed: 1000,
         dots: true,
-        arrows: true // Mostrar los botones de navegación
+        arrows: false // Mostrar los botones de navegación
     });
 
     // Añadir efecto de desplazamiento suave
