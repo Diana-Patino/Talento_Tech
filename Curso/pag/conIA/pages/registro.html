@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro - Oferta Deportiva</title>
+    <link rel="stylesheet" href="../css/estiloofertadeportiva.css">
+</head>
+<body>
+
+<div style="background-color:rgb(72, 151, 78);color:white;padding:20px;">
+    <nav>
+        <ul>
+            <li><a href="../pages/red-comunitaria.html">Red Comunitaria de Actividad Fisica</a></li>
+            <li><a href="../pages/acerca.html">Acerca de nosotros</a></li>
+            <li><a href="../pages/contacto.html">Contacto</a></li>
+            <li><a href="../pages/escenarios.html">Escenarios deportivos</a></li>
+            <li><a href="../pages/oferta.html">Oferta Deportiva</a></li>
+            <li><a href="../pages/registro.html">Registro</a></li>
+        </ul>
+    </nav>
+</div>
+
+<h1>Registro para Eventos Deportivos</h1>
+<p>Por favor, complete el siguiente formulario para registrarse en los eventos deportivos.</p>
+
+<form action="confirmation.html" method="post">
+    <label for="name">Nombre:</label>
+    <input type="text" id="name" name="name" required><br><br>
+
+    <label for="email">Correo Electrónico:</label>
+    <input type="email" id="email" name="email" required><br><br>
+
+    <label for="event">Seleccione el Evento:</label>
+    <select id="event" name="event" required>
+        <option value="futbol">Fútbol</option>
+        <option value="basketball">Baloncesto</option>
+        <option value="tennis">Tenis</option>
+        <option value="natacion">Natación</option>
+    </select><br><br>
+
+    <input type="submit" value="Registrar">
+</form>
+
+</body>
+</html>
